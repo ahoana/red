@@ -1,6 +1,6 @@
 {
-  "versionCode": 7127488689,
-  "versionName": "2.25.28.80",
+  "versionCode": 7127488609,
+  "versionName": "2.25.28.70",
   "Msg": "GBWhatsApp Red V23.97
 
 ✅ [تم الإصلاح] تم إصلاح مشكلة ربط الجهاز.
